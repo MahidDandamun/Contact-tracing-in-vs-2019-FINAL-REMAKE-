@@ -6,6 +6,16 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Contact tracing app (vs 2k19 FINAL)/1.0.0": {
+        "dependencies": {
+          "AForge.Video": "2.2.5",
+          "AForge.Video.DirectShow": "2.2.5",
+          "ZXing.Net": "0.16.8"
+        },
+        "runtime": {
+          "Contact tracing app (vs 2k19 FINAL).dll": {}
+        }
+      },
       "AForge/2.2.5": {
         "runtime": {
           "lib/AForge.dll": {
@@ -47,6 +57,11 @@
     }
   },
   "libraries": {
+    "Contact tracing app (vs 2k19 FINAL)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "AForge/2.2.5": {
       "type": "package",
       "serviceable": true,

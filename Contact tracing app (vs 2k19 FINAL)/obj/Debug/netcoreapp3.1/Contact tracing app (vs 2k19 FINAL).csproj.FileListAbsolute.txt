@@ -1,0 +1,24 @@
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).exe
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).deps.json
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).runtimeconfig.json
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).runtimeconfig.dev.json
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).pdb
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\AForge.dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\AForge.Video.dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact_tracing_app__vs_2k19_FINAL_.FrmContactTracingForm.resources
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact_tracing_app__vs_2k19_FINAL_.Properties.Resources.resources
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact_tracing_app__vs_2k19_FINAL_.FrmQrScanner.resources
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact_tracing_app__vs_2k19_FINAL_.FrmRecords.resources
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).csproj.GenerateResource.cache
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).AssemblyInfoInputs.cache
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).AssemblyInfo.cs
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).csproj.CoreCompileInputs.cache
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).csproj.CopyComplete
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).dll
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).pdb
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).genruntimeconfig.cache
+C:\Users\MAHID DANDAMUN\source\repos\Contact tracing app (vs 2k19 FINAL)\Contact tracing app (vs 2k19 FINAL)\obj\Debug\netcoreapp3.1\Contact tracing app (vs 2k19 FINAL).csproj.AssemblyReference.cache
